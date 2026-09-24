@@ -63,10 +63,10 @@ Used ModelSim waveforms to verify pipeline control and debug hazard stalls and s
 
 Built by **Ilia Javan, Avery Lor, and Linus**.
 
-- **Ilia:** custom audio master/slave modules, final opcode format and decoder design, assembler, byte-addressable memory, Intel RAM IP setup, and substantial contributions to pipeline integration/debugging and hazard handling.
+- **Ilia:** custom audio master/slave modules, final opcode format, assembler, byte-addressable memory, Intel RAM IP setup, and substantial contributions to pipeline integration/debugging and hazard handling.
 - **Avery:** VGA display development and system integration.
-- **Linus:** initial pipeline implementation, register file, ALU, and hazard detection work.
-- **Shared work:** final integration, debugging, and refinement of the processor. Early instruction/decoder prototypes were team work and are not claimed as Ilia's sole contribution.
+- **Linus:** initial pipeline implementation, instruction decode, register file, ALU, ALU opcodes, control signals, and hazard detection work.
+- **Shared work:** final integration, debugging, and refinement of the processor.
 
 The original source repository is maintained by Avery. Contributions were also exchanged through shared files and direct integration, so Git commit counts do not represent the full division of work.
 
