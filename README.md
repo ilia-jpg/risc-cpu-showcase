@@ -68,7 +68,7 @@ Built by **Ilia Javan, Avery Lor, and Linus**.
 - **Linus:** initial pipeline implementation, instruction decode, register file, ALU, ALU opcodes, control signals, and hazard detection work.
 - **Shared work:** final integration, debugging, and refinement of the processor.
 
-The original source repository is maintained by Avery. Contributions were also exchanged through shared files and direct integration, so Git commit counts do not represent the full division of work.
+The original source repository is maintained by Avery.
 
 ## Tools and platform
 
